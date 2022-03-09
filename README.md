@@ -2,11 +2,15 @@
 
 :earth_americas: I am a creative developer searching for IT opportunities in my career. I love science and technology, and I want to contribuite for both of them by improving my programming skills each day more. 
 
+> *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* - Alan Turing
+
 - :woman: My pronouns: She/Her
 - :mortar_board: I am a **meteorology** student at <a href="https://www5.usp.br/english/institutional/">University of São Paulo</a>
-- :email: How to reach me: laurabraz1306@gmail.com
+- :email: How to reach me: laurabraz1306@gmail.com [Linkedin: Laura Braz (Portuguese)](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-braz-0b94291bb/)](LINK-DO-SEU-LINKEDIN)
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+---
+
+<h2> Minhas Skills </h2>
 
 **Aplicações e Dados**
 
@@ -52,6 +56,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Laura Braz (Portuguese)](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
